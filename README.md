@@ -1,6 +1,6 @@
 # Data Analytics & Machine Learning Projects
 
-A collection of academic projects showcasing data analytics, data visualization, data preprocessing, customer behavior analysis, classification, clustering, and predictive modeling using Python, SQL, and Jupyter Notebook by Amanda Ang. These projects apply analytical and computational techniques to real-world problems across hospitality, retail, product classification, and marine safety, alongside quantitative research into deepfake awareness and reporting behavior.
+A collection of academic projects showcasing data analytics, data visualization, data preprocessing, customer behavior analysis, classification, clustering, and predictive modeling by Amanda Ang. These projects apply analytical and computational techniques to real-world problems across hospitality, retail, product classification, and marine safety, alongside quantitative research into deepfake awareness and reporting behavior.
 
 ## Projects
 
